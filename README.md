@@ -2,6 +2,14 @@
 
 Aplicación de escritorio en **Java + JavaFX** que saluda al estudiante por su nombre y menciona su edad.
 
+
+## Cómo ejecutar
+
+1. Instalar **JDK 17+** (`java -version` y `javac -version` deben funcionar).
+2. Descargar el **JavaFX SDK** por ejemplo en `C:\javafx-sdk-21`.
+3. Abrir `ejecutar.bat` 
+4. Hacer doble clic en `ejecutar.bat`.
+
 ## Modelo de requerimientos
 
 - **Actor:** Estudiante
