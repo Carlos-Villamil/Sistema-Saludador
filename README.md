@@ -8,7 +8,7 @@ Aplicación de escritorio en **Java + JavaFX** que saluda al estudiante por su n
 - **Sistema:** Sistema Saludador
 - **Caso de uso:** *Solicitar saludo* (`<<include>>` *Pedir datos*)
 
-## Prompt que usaría para pedir esta app
+## Prompt que use para pedir esta app
 
 > Actúa como un desarrollador Java senior. Necesito una **aplicación de escritorio con interfaz de ventanas usando Java y JavaFX** (sin Maven ni Gradle, un solo archivo `.java` dentro de `src/`) llamada **"Sistema Saludador"**.
 >
